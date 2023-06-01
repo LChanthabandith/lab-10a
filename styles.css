@@ -1,0 +1,225 @@
+html {
+    width: 920px;
+    margin: 0 auto;
+}
+
+header {
+    position: relative;
+}
+
+.logoTextSpace {
+    display: inline-block;
+}
+
+.deliciousText {
+    position: absolute;
+    display: inline-block;
+    font-family: 'Yellowtail', cursive;
+    font-size: 2.5rem;
+    margin-top: -0.2rem;
+    margin-left: 0.1rem;
+}
+
+.blogText {
+    position: absolute;
+    display: inline-block;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.6rem;
+    margin-top: 3.6rem;
+    margin-left: 1rem;
+    letter-spacing: -0.3px;
+}
+
+.socials {
+    position: absolute;
+    display: inline-block;
+    margin-left: 41rem;
+    margin-top: -2.5rem;
+}
+
+#pinterestIcon {
+    margin-right: 0.7rem;
+}
+
+.slashesBetweenBlocks {
+    letter-spacing: -0.1rem;
+    color: gray;
+}
+
+.slashesBetweenBlocks b {
+    font-weight: normal;
+    font-size: 0.3rem;
+}
+
+.slashLine {
+    padding: 1.5rem 0rem 1.5rem 0rem;
+}
+
+.slashes {
+    height: 13px;
+    border: solid 0px white;
+    background-image: linear-gradient(45deg, #000000 16.67%, #fff 16.67%, #fff 50%, #000000 50%, #000000 66.67%, #fff 66.67%, #fff 100%);
+    background-size: 4.24px 4.24px;
+    opacity: 0.3;
+    margin-top: 2rem;
+}
+
+.slashes2 {
+    height: 13px;
+    border: solid 0px white;
+    background-image: linear-gradient(45deg, #000000 16.67%, #fff 16.67%, #fff 50%, #000000 50%, #000000 66.67%, #fff 66.67%, #fff 100%);
+    background-size: 4.24px 4.24px;
+    opacity: 0.3;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+#chocolatePizza {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 3.5rem;
+    margin-bottom: -0.7rem;
+    font-weight: bold;
+    letter-spacing: 0.02rem;
+}
+
+#postedWord {
+    margin-top: 2.5rem;
+    display: inline-block;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+    opacity: 0.4;
+}
+
+.printPizza {
+    display: inline-block;
+}
+
+.printPage {
+    margin-top: 8rem;
+    display: inline-block;
+    margin-left: 39rem;
+    float: right;
+    margin-right: 1rem;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+}
+
+#printIcon {
+    display: inline-block;
+}
+
+#wordPrint {
+    opacity: 0.4;
+    display: inline-block;
+}
+
+.middleSection {
+    font-family: 'Crimson Text', serif;
+    font-size: 1.2rem;
+    opacity: 0.7;
+}
+
+.leftColumn {
+    display: inline-block;   
+}
+
+.rightColumn {
+    display: inline-block;
+    margin-left: 13rem;
+    float: right;
+}
+
+.stickyNote {
+    position: relative;
+    text-align: left;
+    color: black;
+    font-family: 'Patrick Hand', cursive; 
+    font-size: 1.25rem;
+}
+
+.insideList {
+    position: absolute;
+    margin-top: -14.6rem;
+    margin-left: 4rem;
+    opacity: 0.7;
+    height: 100px;
+    line-height: 0.1rem;
+}
+
+input[type="checkbox"] {
+    opacity: 0.5;
+}
+
+#vanessaName {
+    font-weight: bold;
+    margin-left: 6rem;
+    margin-bottom: 1rem;
+}
+
+#nameBold {
+    font-weight: bold;
+    margin-bottom: 1.3rem;
+}
+
+#quote {
+    margin-left: 6rem;
+    margin-top: -5.5rem;
+}
+
+#smallQuote {
+    font-size: 0.9rem;
+}
+
+#shareButton {
+    border: 0;
+    background: none;
+    box-shadow: none;
+    border-radius: 0px;
+    font-family: 'IBM Plex Mono', monospace;
+    block-size: 100%;
+    letter-spacing: -0.1rem;
+    width: 11rem;
+    height: 3rem;
+    color: white;
+    display: block;
+    opacity: 1;
+    background: #cf5e5e;
+    margin-left: 43rem;
+    margin-top: -5rem;
+    float: right;
+}
+
+footer {
+    position: relative;
+    margin-top: 8rem;
+}
+
+#footer1 {
+    opacity: 0.3;
+    position: absolute;
+    width: 47%;
+    margin-top: 0rem;
+}
+
+#footer2 {
+    opacity: 0.3;
+    width: 43%;
+}
+
+#footerLogo {
+    position: absolute;
+    left: 50%;
+    margin-top: -1rem;
+}
+
+.endFooter {
+    opacity: 0.3;
+    text-align: center;
+    margin-left: 1.8rem;
+    margin-top: 3rem;
+}
+
+.bottomFooter {
+    margin-top: -0.8rem;
+    letter-spacing: -0.1rem;
+}
